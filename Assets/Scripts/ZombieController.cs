@@ -39,4 +39,3 @@ public class ZombieController : MonoBehaviour {
 			                 turnSpeed * Time.deltaTime );
 	}
 }
-//Linea de prueba para git
